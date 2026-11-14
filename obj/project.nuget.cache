@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2dGYXcEoZp/Tsq3Igcl0pov5HFzQsGye+CGLN3WJ2U/cRhgBlcKJr9IL8u/G2tc3fNJzqfeQtALnRJogKWLAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saray\\Desktop\\TallerAdoNetSqlite\\TallerAdoNetSqlite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saray\\.nuget\\packages\\microsoft.data.sqlite\\8.0.11\\microsoft.data.sqlite.8.0.11.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.11\\microsoft.data.sqlite.core.8.0.11.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\saray\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
